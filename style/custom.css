@@ -1,0 +1,32 @@
+/* Custom CSS Settings
+-------------------------*/
+[[setting:customcss]]
+
+
+#footer .footer-main .infoarea .footer-logo {
+    max-width: 350px;
+    margin: 0 0 18px;
+}
+
+#footer .footer-main {
+    background: #8b8888;
+    padding: 30px 0 54px;
+}
+
+.login-container {
+    max-width: 868px;
+    border-radius: 0.5rem;
+}
+
+#footer .footer-bootom {
+    background: #f98012;
+    padding: 21px 0;
+    text-align: center;
+}
+
+.header-main .navbar-light .navbar-brand.has-logo {
+    max-width: 300px;
+    float: left;
+    padding: 0;
+    margin: 10px 0;
+}
